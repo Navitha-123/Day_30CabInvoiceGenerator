@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_30CabInvoiceGenerator", "Day_30CabInvoiceGenerator.csproj", "{26C7C9F5-3513-4832-B158-154CC5A80B47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CabInvoiceTest", "..\CabInvoiceTest\CabInvoiceTest.csproj", "{42AFE45D-9EF0-4A43-95AE-408654FA46D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CabInvoiceGeneratorTest", "..\CabInvoiceTest\CabInvoiceGeneratorTest.csproj", "{42AFE45D-9EF0-4A43-95AE-408654FA46D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

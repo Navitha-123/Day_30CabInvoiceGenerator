@@ -13,7 +13,7 @@ namespace Day_30CabInvoiceGenerator
 
             InvoiceGenerator invoiceGenerator1 = new InvoiceGenerator(RideType.PREMIUM);
             double Fare1 = invoiceGenerator.CalculateFare(2.0, 20);
-            Console.WriteLine("Total fare for Normal ride is " + Fare1);
+            Console.WriteLine("Total fare for premium ride is " + Fare1);
 
 
 
